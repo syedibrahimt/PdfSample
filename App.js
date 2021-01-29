@@ -10,7 +10,7 @@ import React from 'react';
 import {SafeAreaView, StyleSheet, Text} from 'react-native';
 import Pdf from 'react-native-pdf';
 
-const App = () => {
+const PdfSample = () => {
   return (
     <>
       <SafeAreaView>
@@ -30,4 +30,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default PdfSample;
