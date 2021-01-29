@@ -6003,7 +6003,7 @@ rimraf@~2.2.6:
 
 "rn-fetch-blob@github:joltup/rn-fetch-blob#pull/701/head":
   version "0.12.0"
-  resolved "https://codeload.github.com/joltup/rn-fetch-blob/tar.gz/709a8213fd54e57507cdf440bb171de332f1287b"
+  resolved "https://codeload.github.com/joltup/rn-fetch-blob/tar.gz/7926c9d56b0f1df3459b9dd6efb0438122245e59"
   dependencies:
     base-64 "0.1.0"
     glob "7.0.6"
