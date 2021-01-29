@@ -5640,7 +5640,7 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
 
 react-native-pdf@wonday/react-native-pdf#538/head:
   version "6.2.2"
-  resolved "https://codeload.github.com/wonday/react-native-pdf/tar.gz/4635a31aaf125a71f653026270c75539b1e32060"
+  resolved "https://codeload.github.com/wonday/react-native-pdf/tar.gz/1fe403b6cc38d040a266231972ee417259480610"
   dependencies:
     "@react-native-community/progress-bar-android" "^1.0.3"
     "@react-native-community/progress-view" "^1.0.3"
